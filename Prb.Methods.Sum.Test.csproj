@@ -19,8 +19,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\Prb.Methods.Sum.Cons\Prb.Methods.Sum.Cons.csproj" />
-  </ItemGroup>
-
 </Project>
